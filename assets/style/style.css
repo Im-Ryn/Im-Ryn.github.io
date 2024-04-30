@@ -68,3 +68,8 @@ main .nav-web ul li{
         flex-direction: column;
     }
 }
+
+li{
+    text-align: center;
+    margin: 5px;
+}
